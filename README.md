@@ -1,11 +1,11 @@
-# The Niemeyer Research Group main website
+# The Sammak Research Group main website
 
 ##
 
 
 ### TODOS
 
-See Issues on [the site](https://github.com/Niemeyer-Research-Group/niemeyer-research-group.github.io).
+See Issues on [the site](https://github.com/shervinsammak).
 
 ## How to add content
 
